@@ -23,7 +23,7 @@ Nos enfocamos en apoyar a emprendedores, negocios locales y empresas que buscan 
 ## 🚀 Proyectos destacados
 
 ### 🌐 Webs y Landing Pages
-- [Landing Page](https://github.com/zentrixinnovation-zxi/landingpage-zentrixinnovate) → Página sencilla, responsiva y optimizada.
+- [Landing Page](https://github.com/zentrixinnovation-zxi/landingtemplate-zentrixinnovate) → Página sencilla, responsiva y optimizada.
 - [Website](https://github.com/zentrixinnovation-zxi/website-zentrixinnovate) → Sitio web con múltiples secciones/landing pages.
 
 ### 📲 Aplicaciones Web
