@@ -36,7 +36,7 @@ Nos enfocamos en apoyar a emprendedores, negocios locales y empresas que buscan 
 - [Dashboard](https://github.com/zentrixinnovation-zxi/dashboard-zentrixinnovate) → Dashboard de métricas con gráficos interactivos.
 
 
-*(Próximamente proyectos principales 🚀)*  
+*(Próximamente más proyectos 🚀)*  
 
 ---
 
