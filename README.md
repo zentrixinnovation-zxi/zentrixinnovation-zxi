@@ -33,6 +33,8 @@ Nos enfocamos en apoyar a emprendedores, negocios locales y empresas que buscan 
 - [CRUDApp](https://github.com/zentrixinnovation-zxi/crudapp-zentrixinnovate) → CRUD básico de usuarios/productos.
 - [TaskManager](https://github.com/zentrixinnovation-zxi/taskmanager-zentrixinnovate) → Gestor de tareas estilo kanban (drag & drop).
 - [Agenda](https://github.com/zentrixinnovation-zxi/agenda-zentrixinnovate) → Agenda con CRUD y calendario.
+
+### 🛠️ WebApp Integrada
 - [WebApp](https://github.com/zentrixinnovation-zxi/webapp-zentrixinnovate) → Aplicación completa que integra **CRUD, TaskManager, Agenda y Dashboard** en un solo proyecto.
 
 *(Próximamente más proyectos 🚀)*  
