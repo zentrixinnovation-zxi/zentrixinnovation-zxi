@@ -12,7 +12,7 @@ Nos enfocamos en apoyar a emprendedores, negocios locales y empresas que buscan 
 ---
 
 ## 🛠️ Tecnologías que usamos
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React 
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React, Astro
 - ⚙️ **Backend:** Node.js, Express, Firebase  
 - 📱 **Móvil:** React Native, Flutter  
 - 🗄️ **Bases de datos:** MongoDB, PostgreSQL, MySQL  
