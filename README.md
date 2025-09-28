@@ -5,9 +5,14 @@ Creamos **páginas web, aplicaciones web y apps móviles** modernas, rápidas y 
 
 ---
 
-## 🧑‍💻 Sobre nosotros
-Somos una iniciativa tecnológica nacida en **Colombia**, dedicada a transformar ideas en soluciones digitales.  
-Nos enfocamos en apoyar a emprendedores, negocios locales y empresas que buscan dar el salto al mundo digital.  
+## 🧑‍💻 Sobre Nosotros  
+
+En **Zentrix Innovate**, nacimos con una idea clara:  
+la innovación digital no debería ser exclusiva de grandes empresas.  
+
+Creemos que cada negocio, sin importar su tamaño, merece soluciones **modernas, accesibles** y que generen un impacto real en su crecimiento.  
+
+> “No queremos ser solo un proveedor, queremos ser parte de tu equipo.”
 
 ---
 
