@@ -18,6 +18,15 @@ Creamos:
 
 ---
 
+## 🌐 Sitios en línea
+
+- 🪩 **Landing principal:** [zentrixinnovate.vercel.app](https://zentrixinnovate.vercel.app)  
+- 🏗️ **Sitio web completo:** [zentrixinnovate-site.vercel.app](https://zentrixinnovate-site.vercel.app)  
+
+> Dos espacios conectados: la **puerta de entrada comercial** y el **sitio estructural del estudio.**
+
+---
+
 ## 🚀 Nuestra filosofía
 
 **Claridad. Innovación. Impacto.**
@@ -33,8 +42,8 @@ Zentrix no solo desarrolla productos, **crea experiencias que comunican valor.**
 
 | Área | Tecnologías |
 |------|--------------|
-| **Frontend** | React, Astro, Next.js, HTML, CSS, JavaScript |
-| **Backend** | Node.js, Express, FastAPI, Firebase |
+| **Frontend** | React, Astro |
+| **Backend** | Node.js, FastAPI |
 | **Móvil** | React Native, Flutter |
 | **Bases de datos** | PostgreSQL, MongoDB, MySQL |
 | **Diseño y UI** | Figma, TailwindCSS |
@@ -67,6 +76,8 @@ Ya sea que necesites una **landing page profesional**, una **web app completa** 
 
 📩 **Contáctanos:** zentrixinnovation@gmail.com  
 🌐 **Instagram:** [@zentrix.innovate](https://instagram.com/zentrix.innovate)  
+💻 **Landing principal:** [zentrixinnovate.vercel.app](https://zentrixinnovate.vercel.app)  
+🧱 **Sitio completo:** [zentrixinnovate-site.vercel.app](https://zentrixinnovate-site.vercel.app)
 
 ---
 
